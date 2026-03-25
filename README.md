@@ -1,18 +1,18 @@
-<h1 align="center">👋 Hi, I'm Bassam Oliveira Abi Ezzeddine</h1>
+<h1 align="center">👋 Olá, eu sou Bassam Oliveira Abi Ezzeddine</h1>
 
 <p align="center">
-💻 Beginner Developer | 🐍 Python | 🚀 Constantly Learning
-</p>
-
-<p align="center">
-I’m passionate about technology and currently taking my first steps into the programming world.  
-I have <strong>6 months of experience with Python</strong> and I’m focused on learning, growing, and building projects that create real value.  
+💻 Desenvolvedor em formação | 🐍 Apaixonado por Python | 🚀 Em constante aprendizado
 </p>
 
 ---
 
-## 🌐 Connect with me
+## 👨‍💻 Sobre mim
+Sou entusiasta de tecnologia e programação, atualmente com **6 meses de experiência em Python**.  
+Meu foco é evoluir constantemente, criando projetos práticos que gerem impacto e contribuam para a comunidade open source.
 
+---
+
+## 🌐 Conecte-se comigo
 <p align="center">
   <a href="https://www.linkedin.com/in/bassamabiezzeddine">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -23,56 +23,53 @@ I have <strong>6 months of experience with Python</strong> and I’m focused on 
   <a href="https://www.youtube.com/@bassamabiezzeddine">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
+  <a href="mailto:BassamEzzeddine6@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🛠️ Technologies I'm Learning
-
+## 🛠️ Tecnologias & Ferramentas
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BassamAbiEzzeddine&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BassamAbiEzzeddine&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🚀 Projetos em desenvolvimento
+Atualmente, estou criando projetos pessoais em **Python** e automação.  
+Cada projeto terá uma breve descrição do problema resolvido e das tecnologias utilizadas.  
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=BassamAbiEzzeddine&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BassamAbiEzzeddine&layout=compact&theme=tokyonight&hide_border=true"/>
+⭐ <a href="https://github.com/BassamAbiEzzeddine?tab=repositories">Veja todos os meus repositórios</a>
 </p>
 
 ---
 
-## 🚀 Featured Projects
-
-🔹 You will soon find my main projects here!  
-I’m currently working on ideas involving Python, automation, and hands-on learning.
-
-<p align="center">
-  ⭐ <a href="https://github.com/BassamAbiEzzeddine?tab=repositories">View all repositories</a>
-</p>
+## 📚 Em aprendizado & próximos passos
+- **Em aprendizado:** Clean Architecture no Front-end, Testes E2E com Playwright  
+- **Próximos passos:** concluir projetos pessoais em Python e começar a contribuir em projetos open source  
 
 ---
 
-## 🎯 Goals
-
-My goal is to grow as a developer, deepen my programming skills, and contribute to open source projects.  
-
-I want to build real solutions, collaborate with other developers, and turn learning into impact. 🚀
-
----
-
-## 📬 Contact
-
+## 📬 Contato
 📧 Email: **BassamEzzeddine6@gmail.com**  
-💼 LinkedIn: https://www.linkedin.com/in/bassamabiezzeddine  
+💼 LinkedIn: [bassamabiezzeddine](https://www.linkedin.com/in/bassamabiezzeddine)
 
 ---
 
 <p align="center">
-✨ Thanks for visiting my profile! ✨  
-🚀 Always learning, always improving.
+✨ Obrigado por visitar meu perfil! 🚀 Sempre aprendendo e evoluindo ✨
 </p>
