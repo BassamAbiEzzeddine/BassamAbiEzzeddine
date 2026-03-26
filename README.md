@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:00FFAA&height=120&section=header"/>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+Bassam+%F0%9F%91%8B;Desenvolvedor+Python+em+evolu%C3%A7%C3%A3o;Bem-vindo+ao+meu+GitHub!+%F0%9F%9A%80" />
 </p>
@@ -38,6 +40,14 @@ Meu objetivo é crescer como desenvolvedor e transformar conhecimento em impacto
   <img src="https://skillicons.dev/icons?i=git" height="40"/>
   <img src="https://skillicons.dev/icons?i=github" height="40"/>
   <img src="https://skillicons.dev/icons?i=vscode" height="40"/>
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BassamAbiEzzeddine&theme=tokyo-night&hide_border=true"/>
 </div>
 
 ---
@@ -94,6 +104,7 @@ Estou trabalhando em automações e aplicações em Python.
 </div>
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:00FFAA&height=120&section=footer"/>
 
 <p align="center">
 ✨ Obrigado por visitar meu perfil!  
